@@ -16,9 +16,8 @@
 | | |
 |---|---|
 | ![Main Menu]() | ![Basic View](https://github.com/user-attachments/assets/f25de069-e2d5-47d1-8948-7eb678e92493) |
-| *Main satellite selection menu* | *Basic TLE information display* |
 | ![Detailed View](https://github.com/user-attachments/assets/f25de069-e2d5-47d1-8948-7eb678e92493) | ![Orbital Elements](https://github.com/user-attachments/assets/f25de069-e2d5-47d1-8948-7eb678e92493) |
-| *Detailed satellite analysis* | *Calculated orbital elements* |
+
 
 
 
