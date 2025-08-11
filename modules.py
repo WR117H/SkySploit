@@ -156,7 +156,7 @@ def pretty_print(tle, stdscr, y_offset=0):
             [
                 "-"*80,
                 f"Satellite Name{' '*44}= {title}",
-                f"Satellite number{' '*42}= {satellite_number} ({"Unclassified" if classification == 'U' else "Classified"})",
+                f"Satellite number{' '*42}= {satellite_number}",
                 f"International Designator{' '*32}= YR: {international_designator_year:02d}, LAUNCH #{international_designator_launch_number}, PIECE: {international_designator_piece_of_launch}",
                 f"Epoch Date{' '*48}= {epoch_date.strftime('%Y-%m-%d %H:%M:%S.%f %Z')}  (YR:{epoch_year:02d} DAY:{epoch:.11g})",
                 f"First Time Derivative of the Mean Motion divided by two{' '*12}= {first_time_derivative:g}",
