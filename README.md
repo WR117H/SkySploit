@@ -19,8 +19,18 @@
 
 
 ## Installation
+1. Pre installed libs:
 
-1. Clone the repository:
+   ```
+   pip3 install pyephem
+   pip3 install (if windows) windows-curses (else) curses
+   pip3 install 
+   pip3 install numpy
+   
+
+
+   ```
+2. Clone the repository:
    
    ```
    git clone https://github.com/WR117H/SkySploit.git
