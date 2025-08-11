@@ -13,10 +13,9 @@
 
 ## Screenshots
 
-<img width="1156" height="677" alt="MainMenu" src="https://github.com/user-attachments/assets/22ed18ec-431f-4ef8-90ea-e78fa059aab7" />
-<img width="1156" height="670"  src="https://github.com/user-attachments/assets/5cff5f18-b2c8-4195-a701-dd430efd04b2" />
-<img width="1156" height="670"  src="https://github.com/user-attachments/assets/f7e22dd0-3cc9-462d-b45c-d54765b4c959" />
-<img width="1156" height="670"  src="https://github.com/user-attachments/assets/d1d93e74-ccf7-4e1d-b65b-120f86b7a618" />
+<img width="1914" height="1079" alt="Screenshot 2025-08-11 200115" src="https://github.com/user-attachments/assets/92431f18-0365-4abb-a027-659fa5eafc5a" />
+<img width="1919" height="1071" alt="Screenshot 2025-08-11 200123" src="https://github.com/user-attachments/assets/5a687644-ffba-420a-89f4-a00541ee024e" />
+<img width="1919" height="1079" alt="Screenshot 2025-08-11 200131" src="https://github.com/user-attachments/assets/a15ba72c-0de0-43a2-bc08-bf5e5b46b936" />
 
 
 ## Installation
