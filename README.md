@@ -26,11 +26,8 @@
    pip3 install (if windows) windows-curses (else) curses
    pip3 install 
    pip3 install numpy
-   
-
-
    ```
-2. Clone the repository:
+2. Clone the repository and run it:
    
    ```
    git clone https://github.com/WR117H/SkySploit.git
